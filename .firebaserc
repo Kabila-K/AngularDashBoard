@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ang-fire-bb7da": {
+      "hosting": {
+        "blog-dashboard": [
+          "ang-fire-bb7da"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ang-fire-bb7da"
+  }
+}
